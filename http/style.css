@@ -1,0 +1,50 @@
+body {
+    background-color: #257180;
+}
+
+div {
+    max-width: 800px;
+    background-color: #F2E5BF;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+hr {
+    color: #FD8B51;
+    text-align: center;
+    width: 90%;
+}
+
+h1 {
+    text-align: center;
+    color: #CB6040;
+    font-family: Georgia, serif;
+}
+
+p {
+    text-align: center;
+    color: #CB6040;
+}
+
+p, a {
+    font-family: Georgia, serif;
+}
+
+a {
+    color: #FD8B51;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FD8B51;
+}
+
+.feature {
+    font-weight: bold;
+    font-size: xx-large;
+}
