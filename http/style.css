@@ -48,3 +48,11 @@ a:visited {
     font-weight: bold;
     font-size: xx-large;
 }
+
+.status-code {
+    font-family: Georgia, serif;
+    font-size: 96px;
+    font-weight: bold;
+    margin: 0;
+    color: #FD8B51;
+}

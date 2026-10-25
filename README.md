@@ -14,3 +14,7 @@ Directories deployed by other repos:
 |---|---|---|
 | `people-collector/` | `people-collector-poc` | Alya game |
 | `twin-blog/` | `twin-blog` (private) | Password-protected via hPanel; never ship an `.htaccess` there |
+
+## Error pages
+
+`http/errors/<code>.html`, wired up via `ErrorDocument` in `http/.htaccess`. Subdirectories inherit them, including `twin-blog/`.
